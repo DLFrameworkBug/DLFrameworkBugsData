@@ -22,15 +22,15 @@ Deeplearning4J: https://github.com/eclipse/deeplearning4j
 
 Here we introduce some important labels in the worksheet.
 
--issue: issue id solved by or relevant to the pull request.
--pr_id: short for pull request id.
--start_time: time when relevent issue was created.
--merge_time: time when pull request was merged.
--patch_file: files that contributor pulled to solve the issue.
--symptom: the symptom created by bugs.
--root_cause: the root cause of bugs.
--root_cause-sub: records of subcategories in root cause.
--component: the category where the bugs happens in DL framework.
--stage: period when bugs happens.
--function_num: function numbers modified in the pull request.
+- issue: issue id solved by or relevant to the pull request.
+- pr_id: short for pull request id.
+- start_time: time when relevent issue was created.
+- merge_time: time when pull request was merged.
+- patch_file: files that contributor pulled to solve the issue.
+- symptom: the symptom created by bugs.
+- root_cause: the root cause of bugs.
+- root_cause-sub: records of subcategories in root cause.
+- component: the category where the bugs happens in DL framework.
+- stage: period when bugs happens.
+- function_num: function numbers modified in the pull request.
 
