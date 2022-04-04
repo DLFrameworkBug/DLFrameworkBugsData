@@ -34,3 +34,10 @@ Here we introduce some important labels in the worksheet.
 - stage: period when bugs happens.
 - function_num: function numbers modified in the pull request.
 
+## Preliminary application
+
+Guided by our study findings, we conduct a preliminary test case generating tool and deploy it in four versions of TensorFlow. The tool has detected 6 bugs, involving 3 historical bugs and 3 unknown bugs. Regarding 3 historical bugs, we present example code in bug folder. Regarding 3 unknown bugs, we present the following issue url.
+
+1. Triggered by dim mutation: https://github.com/tensorflow/tensorflow/issues/55214
+2. Triggered by corner case: https://github.com/tensorflow/tensorflow/issues/55201
+3. Triggered by type issue: https://github.com/tensorflow/tensorflow/issues/55285
