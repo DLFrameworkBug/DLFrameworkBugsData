@@ -4,7 +4,7 @@
 
 This is a dataset created to support paper: **Toward Understanding Deep Learning Framework Bugs**
 
-To fully research the characteristic and distribution of bugs in DL frameworks, we collected closed and merged pull request from four famous DL library repositories: TensorFlow, PyTorch, MXNet and Deeplearning4J. In total we analysed 954 pull requests and collected 800 bugs. All bugs are recorded in the excel table.
+To fully research the characteristic and distribution of bugs in DL frameworks, we collected closed and merged pull request from four famous DL library repositories: TensorFlow, PyTorch, MXNet and Deeplearning4J. For each DL framework, we analyze 250 latest bugs. In total we analysed 1,250 pull requests and collected 1000 bugs. All bugs are recorded in the `dataset.xlsx` file.
 
 ## Repository
 
