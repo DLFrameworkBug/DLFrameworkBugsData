@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a dataset created to support paper: **Toward Understanding Deep Learning Framework Bugs**
+This repo contains a dataset for supporting the paper: **Toward Understanding Deep Learning Framework Bugs**, which has been accepted by TOSEM 2023.
 
 To fully research the characteristic and distribution of bugs in DL frameworks, we collected closed and merged pull request from four famous DL library repositories: TensorFlow, PyTorch, MXNet and Deeplearning4J. In total we analyzed1,250 pull requests and collected 1000 real bugs, including 250 latest bugs for each DL frameworks. . All bugs are recorded in the `dataset.xlsx` file.
 
